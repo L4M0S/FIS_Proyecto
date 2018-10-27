@@ -1,0 +1,39 @@
+*{
+	padding: 0;
+	margin: 0;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box; 
+	box-sizing:border-box; 
+
+	/*font-family:;*/
+}
+
+body{
+	/*background: #3498db;*/
+	background: #ffffff; 
+}
+.contenido{
+	width: 90%;
+	/*max-width:1000px;*/ /*ponerlo i no lo queremos de todo el ancho*/
+	/*left: 0; /*ponerlo si lo queremos de todo el ancho*/
+	margin:auto;
+}
+
+#contenedor-contacto{
+	z-index: 1;
+	background-color: #757575; 
+	width: 100%;
+	padding: 1% 1%;
+    margin: 0;
+    /*position: absolute;*/
+    bottom: 0;
+}
+.contacto-columna{
+	background-color: #757575; 
+	float: left;
+	position: relative;
+	padding-right: 5%;
+    padding-left: 5%;
+}
+
+

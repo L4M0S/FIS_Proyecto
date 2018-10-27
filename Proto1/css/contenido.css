@@ -1,0 +1,16 @@
+body{
+	/*background: #3498db;*/
+	background: #3F51B5; 
+}
+.contenido{
+	width: 95%;
+	/*max-width:1000px;*/ /*ponerlo i no lo queremos de todo el ancho*/
+	left: 0; /*ponerlo si lo queremos de todo el ancho*/
+	margin:auto;
+}
+.img_fondo{
+	position: fixed;
+	z-index: -1;
+	width: 100%;
+	height: 100%;	
+}
