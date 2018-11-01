@@ -20,14 +20,6 @@
 	font-family: Arial;
 }*/
 
-#contenedor-tabla{
-	width: 90%;
-	margin:auto;
-	/*margin: 150px auto;*/
-	/*width: 600px;*/
-	background-color: #632432;
-}
-
 table{
 	background-color: white;
 	text-align: center;

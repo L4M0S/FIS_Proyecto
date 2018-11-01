@@ -4,7 +4,7 @@
 	/*max-width:1000px;*/ /*ponerlo i no lo queremos de todo el ancho*/
 	left: 0; /*ponerlo si lo queremos de todo el ancho*/
 	margin:auto;
-	z-index: 1;
+	z-index: 10;
 	opacity: 0.75;
 }
 
