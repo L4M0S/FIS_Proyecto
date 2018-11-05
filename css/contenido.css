@@ -60,7 +60,8 @@ body{
 }
 
 .contacto-columna{
-	background-color: #00796B; 
+	background-color: #DAA520;  /*#00796B;*/
+	opacity: 0.85;
 	float: left;
 	position: relative;
 	width: 50%;
