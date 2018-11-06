@@ -21,7 +21,7 @@ body{
 
 #contenedor-cuadros{
 	z-index: 1;
-	background-color: #757575; 
+	background-color: #CD853F;
 	width: 90%;
     margin: 2.5% 5% 2.5% 5%;/* top right bottom left*/
     position: relative;
@@ -29,7 +29,7 @@ body{
 
 #contenedor-mapa{
 	z-index: 1;
-	background-color: #757575; 
+	background-color: #CD853F; 
 	width: 90%;
     margin: 2.5% 5% 2.5% 5%;/* top right bottom left*/
     position: relative;
@@ -37,7 +37,7 @@ body{
 
 #contenedor-tabla{
 	z-index: 1;
-	background-color: #757575; 
+	background-color: #CD853F; 
 	width: 90%;
     margin: 2.5% 5% 2.5% 5%;/* top right bottom left*/
     position: relative;
@@ -45,10 +45,23 @@ body{
 
 #contenedor-top{
 	z-index: 1;
-	background-color: #757575; 
+	background-color: #CD853F; 
 	width: 90%;
     margin: 2.5% 5% 2.5% 5%;/* top right bottom left*/
     position: relative;
+}
+
+#cuadro-top
+{
+	z-index: 5;
+	background-color: gray;
+	width: 50%;
+	float: left;
+}
+
+#cuadro-top img
+{
+	
 }
 
 #contenedor-contacto{
