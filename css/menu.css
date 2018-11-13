@@ -23,8 +23,12 @@ header nav ul {
 	overflow: hidden;
 }
 
-header nav ul li {
+header nav ul li#nologin{
 	float: left;
+}
+
+header nav ul li#login{
+	float: right;
 }
 
 header nav ul li a {
