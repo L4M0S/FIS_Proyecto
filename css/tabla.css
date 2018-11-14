@@ -131,6 +131,10 @@ table thead tr th.th-gasolinera
 {
 	width: 30%;
 }
+table tr td img
+{
+	min-width: 50%;
+}
 
 table thead tr th.th-reputacion
 {
