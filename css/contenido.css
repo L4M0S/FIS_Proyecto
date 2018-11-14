@@ -107,6 +107,12 @@ div#contenedor-tabla img
 	float: right;
 }*/
 
+/*#mapa-reputacion
+{
+	float: right;
+	position: absolute;
+}*/
+
 #contenedor-contacto{	
 	z-index: 1;  
 	width: 100%;

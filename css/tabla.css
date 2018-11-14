@@ -58,6 +58,7 @@ tr td
 .Pmagna{
 	background-color: #2E8B57;
 	box-shadow:0px 0px 5px rgba(0,0,0,0.75);
+	width: 10%;
 }
 
 .Premium{
@@ -70,6 +71,7 @@ tr td
 .Ppremium{
 	background-color: #A52A2A;
 	box-shadow:0px 0px 5px rgba(0,0,0,0.75);
+	width: 10%;
 }
 
 .Diesel{
@@ -79,6 +81,7 @@ tr td
 .Pdiesel{
 	background-color: #2F4F4F;
 	box-shadow:0px 0px 5px rgba(0,0,0,0.75);
+	width: 10%;
 }
 
 
@@ -122,4 +125,19 @@ tr:hover td{
 .reputacion-estrellas > a:hover ~ a {
 	color: #888;
 	text-shadow: none;
+}
+
+table thead tr th.th-gasolinera
+{
+	width: 30%;
+}
+
+table thead tr th.th-reputacion
+{
+	width: 10%;
+}
+
+table thead tr th.th-ubicacion
+{
+	width: 30%;
 }
