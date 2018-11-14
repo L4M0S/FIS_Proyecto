@@ -71,6 +71,13 @@ div#contenedor-tabla img
 
 }
 
+#cuadro-top img
+{
+	max-width: 25%;
+	/*float: left;*/
+
+}
+
 .izd
 {
 	float: left;
@@ -82,14 +89,25 @@ div#contenedor-tabla img
 	float: right;
 }
 
-#cuadro-top img
+#comentarios
 {
-	max-width: 25%;
-	/*float: left;*/
-
+	background-color: #CFD8DC;
+	padding: 10px;
+	box-shadow:0px -4px 3px rgba(0,0,0,.5);
 }
 
-#contenedor-contacto{
+#comentarios img
+{
+	max-width: 20px;
+	float: left;
+}
+
+/*div#comentarios div.reputacion-estrellas
+{
+	float: right;
+}*/
+
+#contenedor-contacto{	
 	z-index: 1;  
 	width: 100%;
     margin: 2.5% 0% 2.5% 0%;/* top right bottom left*/
