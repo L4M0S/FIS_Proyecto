@@ -133,6 +133,7 @@ table thead tr th.th-gasolinera
 }
 table tr td img
 {
+	width: 100%;
 	min-width: 50%;
 }
 
