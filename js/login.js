@@ -4,6 +4,10 @@ function redireccionar(){
 
 function iniciar()
 {
+	var usuario=document.getElementById('campousuario').value;
+	var pass=document.getElementById('campopass').value;
+
+	
 	if (usuario=="rodolfo" && pass=="secreto") {
 
 		document.location.href="indexr.html";
